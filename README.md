@@ -91,14 +91,14 @@ Built an end-to-end machine learning solution to predict employee attrition and 
 ## 🚀 How to Run
 
 ### Option 1: Google Colab (Recommended)
-1. Click the Colab badge: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](link-to-your-notebook)
+1. Click the Colab badge: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WZNRwEd9TXGLvsg2EZ_kNnpDQYngNJVC?usp=sharing)
 2. Run cells sequentially
 3. All outputs will generate automatically
 
 ### Option 2: Local Environment
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/employee-attrition-prediction.git
+git clone https://github.com/poojamohith09/employee-attrition-prediction.git
 cd employee-attrition-prediction
 
 # Install requirements
@@ -134,9 +134,9 @@ jupyter notebook HR_Attrition_Analysis.ipynb
 
 ## 📧 Contact
 
-**[Your Name]**  
-📧 your.email@example.com  
-💼 [LinkedIn](your-linkedin-url)  
+**[Pooja Ramesh Kotian]**  
+📧 kaavya.r78@gmail.com  
+💼 [LinkedIn](www.linkedin.com/in/pooja-ramesh-kotian-061b6a143)  
 🌐 [Portfolio](your-portfolio-url)
 
 ---
@@ -208,4 +208,5 @@ Employee Attrition Prediction | Python, Scikit-learn, Pandas
 - Built ML model (74.5% recall, 0.801 AUC) predicting employee turnover
 - Identified overtime and compensation as top drivers through EDA
 - Generated recommendations to save $2-3M annually
-📂 GitHub: github.com/yourname/employee-attrition-prediction
+
+📂 GitHub: github.com/poojamohith09/employee-attrition-prediction
