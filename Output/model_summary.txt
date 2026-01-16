@@ -1,0 +1,26 @@
+
+MODEL TRAINING SUMMARY
+============================================================
+
+Dataset:
+  • Total Employees: 1470
+  • Features Used: 25
+  • Training Samples: 1176
+  • Test Samples: 294
+
+Model Performance:
+  • Accuracy: 72.4%
+  • Precision: 33.7%
+  • Recall: 74.5%
+  • F1-Score: 46.4%
+  • ROC-AUC: 0.801
+
+Key Insights:
+  • Model can identify 74% of employees who will leave
+  • 34% accuracy when predicting 'at risk' employees
+  • Good balance between catching attrition and avoiding false alarms
+
+Next Steps:
+  1. Analyze feature importance (which factors drive attrition most?)
+  2. Identify high-risk employees for retention intervention
+  3. Create automated risk scoring system

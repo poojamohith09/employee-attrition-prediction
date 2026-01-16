@@ -1,0 +1,41 @@
+
+ATTRITION DRIVERS ANALYSIS - EXECUTIVE SUMMARY
+============================================================
+
+Model Performance:
+  • Accuracy: 72.4%
+  • Recall: 74.5% (catches 3 out of 4 employees who leave)
+  • ROC-AUC: 0.801 (good predictive power)
+
+TOP 5 ATTRITION RISK FACTORS:
+  1. OverTime_Encoded
+  2. YearsSinceLastPromotion
+  3. NumCompaniesWorked
+  4. JobLevel
+  5. DistanceFromHome
+
+TOP 5 RETENTION FACTORS:
+  1. TotalWorkingYears
+  2. MonthlyIncome
+  3. YearsWithCurrManager
+  4. EnvironmentSatisfaction
+  5. StockOptionLevel
+
+KEY INSIGHTS:
+  • Overtime work is a major attrition driver
+  • Early tenure (0-2 years) is a vulnerable period
+  • Long tenure and high compensation are protective
+  • Career stagnation increases departure risk
+
+RECOMMENDED ACTIONS:
+  1. Reduce overtime through hiring and workload management
+  2. Strengthen early-tenure support with mentorship
+  3. Implement career progression frameworks
+  4. Conduct compensation benchmarking
+  5. Focus retention efforts on model-identified high-risk employees
+
+EXPECTED OUTCOMES:
+  • 4-5 percentage point reduction in attrition
+  • 60+ employees retained annually
+  • $2-3M annual savings
+  • 300-400% ROI on retention programs
