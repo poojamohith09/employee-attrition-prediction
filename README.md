@@ -87,6 +87,16 @@ Built an end-to-end machine learning solution to predict employee attrition and 
 ```
 
 ---
+## 🚀 How to View
+
+1. **View Notebook:** Click on `HR_Attrition_Analysis.ipynb` to see the complete analysis
+2. **View Visualizations:** Browse the `visualizations/` folder for all charts
+3. **View Results:** Check `outputs/` folder for model summaries
+
+To run yourself: Download the notebook and open in Google Colab or Jupyter Notebook.
+```
+
+---
 
 ## 📊 Visualizations Preview
 
@@ -135,5 +145,4 @@ This project is open source and available under the [MIT License](LICENSE).
 ⭐ **If you found this project helpful, please star this repository!** ⭐
 ```
 
----
 
