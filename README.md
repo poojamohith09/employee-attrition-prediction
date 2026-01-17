@@ -88,28 +88,6 @@ Built an end-to-end machine learning solution to predict employee attrition and 
 
 ---
 
-## 🚀 How to Run
-
-### Option 1: Google Colab (Recommended)
-1. Click the Colab badge: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WZNRwEd9TXGLvsg2EZ_kNnpDQYngNJVC?usp=sharing)
-2. Run cells sequentially
-3. All outputs will generate automatically
-
-### Option 2: Local Environment
-```bash
-# Clone repository
-git clone https://github.com/poojamohith09/employee-attrition-prediction.git
-cd employee-attrition-prediction
-
-# Install requirements
-pip install pandas numpy matplotlib seaborn scikit-learn
-
-# Run Jupyter Notebook
-jupyter notebook HR_Attrition_Analysis.ipynb
-```
-
----
-
 ## 📊 Visualizations Preview
 
 ### Key Charts:
@@ -134,10 +112,9 @@ jupyter notebook HR_Attrition_Analysis.ipynb
 
 ## 📧 Contact
 
-**[Pooja Ramesh Kotian]**  
+**Pooja Ramesh Kotian**  
 📧 kaavya.r78@gmail.com  
-💼 [LinkedIn](www.linkedin.com/in/pooja-ramesh-kotian-061b6a143)  
-🌐 [Portfolio](your-portfolio-url)
+💼 [LinkedIn](www.linkedin.com/in/pooja-ramesh-kotian-061b6a143)
 
 ---
 
@@ -160,53 +137,3 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-### **STEP 4: Create GitHub Account (if you don't have one)**
-
-1. Go to https://github.com
-2. Click "Sign Up"
-3. Choose username (use professional name: firstname-lastname or firstname_lastname)
-4. Complete registration
-
----
-
-### **STEP 5: Create New Repository**
-
-1. Click **"+"** (top right) → **"New repository"**
-2. Fill in details:
-   - **Repository name:** `employee-attrition-prediction`
-   - **Description:** "ML project predicting employee turnover with 74.5% recall and $2-3M projected savings"
-   - **Public** (so recruiters can see it)
-   - ✅ Check "Add a README file" (then replace with yours)
-   - Choose License: MIT
-3. Click **"Create repository"**
-
----
-
-### **STEP 6: Upload Files**
-
-#### **Method A: Drag & Drop (Easiest)**
-
-1. In your new repo, click **"Add file"** → **"Upload files"**
-2. Drag all files from your folder
-3. Add commit message: "Initial commit: Complete attrition prediction project"
-4. Click **"Commit changes"**
-
-#### **Method B: GitHub Desktop (Recommended if you'll update often)**
-
-1. Download GitHub Desktop: https://desktop.github.com
-2. Clone your repository
-3. Copy all project files to the cloned folder
-4. Commit and push changes
-
----
-
-### **STEP 7: Add to Resume & LinkedIn**
-
-**Resume:**
-```
-Employee Attrition Prediction | Python, Scikit-learn, Pandas
-- Built ML model (74.5% recall, 0.801 AUC) predicting employee turnover
-- Identified overtime and compensation as top drivers through EDA
-- Generated recommendations to save $2-3M annually
-
-📂 GitHub: github.com/poojamohith09/employee-attrition-prediction
